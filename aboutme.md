@@ -1,7 +1,6 @@
----
-layout: page
 
-subtitle: Learn about why I love frogs
+
+# Learn about why I love frogs
 
 ---
 My name is Mia. I really like frogs:
