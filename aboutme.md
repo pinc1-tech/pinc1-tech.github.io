@@ -1,9 +1,9 @@
-
+---
 layout: page
 
 subtitle: Learn about why I love frogs
 
-
+---
 My name is Mia. I really like frogs:
 
 - It seems to signal good luck
