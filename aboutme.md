@@ -1,5 +1,3 @@
-
-
 # Learn about why I love frogs
 
 ---
