@@ -3,7 +3,6 @@ layout: post
 title: Sample Blogpost 1
 subtitle: There really is a lot to learn
 gh-repo: daattali/beautiful-jekyll
-tags: [test]
 comments: true
 mathjax: true
 author: Mia Pinc
