@@ -16,11 +16,11 @@ This is me practicing how to make blogposts for my future in this class...
 
 I really love animals. I am going to include one just for fun. 
 
-![images-2.jpeg](assets/img/images-2.jpeg)
+![Baby Seal]([assets/img/images-2.jpeg](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg)
 
 I can also center it, again, just for fun.  
 
-![images-2.jpeg](assets/img/images-2.jpeg{: .mx-auto.d-block :}
+![Baby Seal]([assets/img/images-2.jpeg](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg){: .mx-auto.d-block :}
 
 
 
