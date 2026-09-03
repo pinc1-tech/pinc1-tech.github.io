@@ -1,17 +1,10 @@
 
 
-## Mia + Frogs
+## Why I'm Taking Electronic Textiles
+
+Did you know that coding and sewing can be paired together to create everyday items that can elevate your life quality? Well that is what this Electronic Textiles Course will teach! Electronic Textiles has created revolutionary items, such as smart garments that monitor medical patients, teddy bears that play sounds when you hug it, jean jackets that are connected to bluetooth, and more! My plan, as a first year at Kenyon College, is to be introduced to basic coding fundamentals and and to learn how to sew, so I can create a fun and functional project at the end of the semester. 
 
 
-My name is Mia. I really like frogs:
 
-- It seems to signal good luck
-- I love farming and seeing frogs 
-
-I'm sure you are curious to learn more...
-
-### My story
-
-One day I was in Nagano, Japan. I was farming there through a program called WWOOF, World Wide Opportunities on Organic Farms. This experience changed my life, as seeing the farmers live a simple life made me realize that I do not need a lot of material stuff to feel fulfilled. As I was farming, I saw a frog, and I felt incredibly happy. These natural things in life are what is most important, more than any piece of clothing or product. *I love farming.*
 
 
