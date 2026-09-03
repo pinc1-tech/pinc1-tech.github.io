@@ -16,11 +16,11 @@ This is me practicing how to make blogposts for my future in this class...
 
 I really love animals. I am going to include one just for fun. 
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![images-2.jpeg](images-2.jpeg)
 
 I can also center it, again, just for fun.  
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![images-2.jpeg](images-2.jpeg{: .mx-auto.d-block :}
 
 
 
