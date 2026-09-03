@@ -16,11 +16,11 @@ This is me practicing how to make blogposts for my future in this class...
 
 I really love animals. I am going to include one just for fun. 
 
-![Baby Seal](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg)
+![Baby Seal](https://github.com/pinc1-tech/pinc1-tech.github.io/assets/img/images-2.jpeg)
 
 I can also center it, again, just for fun.  
 
-![Baby Seal](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg){: .mx-auto.d-block :}
+![Baby Seal](https://github.com/pinc1-tech/pinc1-tech.github.io/assets/img/images-2.jpeg){: .mx-auto.d-block :}
 
 
 
