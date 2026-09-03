@@ -16,7 +16,7 @@ This is me practicing how to make blogposts for my future in this class...
 
 I really love animals. I am going to include one just for fun. 
 
-![Baby Seal]([assets/img/images-2.jpeg](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg)
+![Baby Seal]([assets/img/images-2.jpeg](https://github.com/pinc1-tech/pinc1-tech.github.io/blob/master/assets/img/images-2.jpeg?raw=true)
 
 I can also center it, again, just for fun.  
 
