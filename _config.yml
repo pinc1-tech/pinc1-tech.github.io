@@ -134,10 +134,10 @@ page-col: "#FFFFFF"
 text-col: "#780623"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "ACC4FC"
+navbar-col: "#ACC4FC"
 navbar-text-col: "#E2C0ED"
-navbar-border-col: "#233975"
-footer-col: "#EDC0D1"
+navbar-border-col: "#E1E9F5"
+footer-col: "#73193A"
 footer-text-col: "#EDC0D1"
 footer-link-col: "#C0B8E0"
 footer-hover-col: "#E0B8D1"
@@ -147,7 +147,7 @@ footer-hover-col: "#E0B8D1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/images-3.jpeg"
+page-img: (https://pinc1-tech.github.io/assets/img/images-3.jpeg)
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
