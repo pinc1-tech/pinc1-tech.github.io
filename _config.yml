@@ -147,7 +147,7 @@ footer-hover-col: "#E0B8D1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img:(https://pinc1-tech.github.io/assets/img/images-3.jpeg)
+page-img: "https://pinc1-tech.github.io/assets/img/images-3.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
