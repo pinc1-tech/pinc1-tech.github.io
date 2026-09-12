@@ -1,10 +1,7 @@
-layout: post
-title: Embroidery 
-subtitle: My first embroidery project 
-gh-repo: daattali/beautiful-jekyll
-comments: true
-mathjax: true
-author: Mia Pinc
+---
+
+## Embroidery 
+### My first embroidery project 
 ---
 
 
@@ -16,4 +13,4 @@ This is the back of my embroidery project.
 
 ![Baby Seal](https://pinc1-tech.github.io/assets/img/IMG_3173.jpeg)
 
-One tip I would give to past me before starting this project is to look at the image of the stitch. Once you see where the thread comes out of and goes into, as long as you know which side is the "bad side" it is pretty intuitive. 
+One tip I would give to past me before starting this project is to look at the image of the stitch. Once you see where the thread comes out of and goes into, as long as you know which side the "bad side" is, it is pretty intuitive. 
