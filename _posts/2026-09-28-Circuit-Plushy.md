@@ -11,8 +11,8 @@ switch was on and the button was pressed, the lights would turn on. To create a 
 the thread correctly.
 
 ![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3378.HEIC)
-![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3380.HEIC)
-![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3383.HEIC)
+![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3380.jpeg)
+![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3383.jpeg)
 
 
 One tip I would give to others before starting this assignment for the first time is to not rush things. I was rushing and ended up mixing up the positive and negative of an LED light and 
