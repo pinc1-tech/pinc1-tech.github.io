@@ -10,7 +10,7 @@ In this E-textiles assignment, we had to sew a plushy and include three led ligh
 switch was on and the button was pressed, the lights would turn on. To create a circuit that worked, we had to ensure that the positives and negatives were attached by 
 the thread correctly.
 
-![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3378.HEIC)
+![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3378.jpeg)
 ![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3380.jpeg)
 ![Babt Seal](https://pinc1-tech.github.io/assets/img/IMG_3383.jpeg)
 
