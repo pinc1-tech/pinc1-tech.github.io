@@ -7,7 +7,7 @@ In this E-Textiles assignment, we combined three different firefly flashing patt
 
 Here is an image of my Arduino board while running this code: 
 
-![Baby Seal](https://pinc1-tech.github.io/assets/img/unnamed-5.jpg
+![Baby Seal](https://pinc1-tech.github.io/assets/img/unnamed-5.jpg)
 
 
 If I had to give a tip to others for attempting this project for the first time, I would definitely recommend to add comments besides each code to differentiate which firefly the code is referencing to. I would also recommend change certain variable names to correspond to the firefly, for example BG brightness (blue ghost brightness) instead of just brightness.
